@@ -9,6 +9,5 @@ Further tweaks made using FontForge and TTF auto hint.
 Hinter settings are default, except for "Stem Width and Positioning Mode", which are all set to "quantised"
 
 Bold is created by expanding regular by 30 em units in CJK mode.
-Italic is created by skewing regular by ...???...
-
+Italic is created by skewing regular by -9 degrees.
 
