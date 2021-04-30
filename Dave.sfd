@@ -17,18 +17,18 @@ Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 XUID: [1021 81 -837077078 24771]
 StyleMap: 0x0040
-FSType: 8
-OS2Version: 2
+FSType: 0
+OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1537189093
-ModificationTime: 1597747820
+ModificationTime: 1619697695
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 11 5 9 2 2 4 3 2 4
+Panose: 0 11 0 9 0 0 0 0 0 3
 OS2TypoAscent: 725
 OS2TypoAOffset: 0
 OS2TypoDescent: -161
@@ -54,10 +54,8 @@ OS2StrikeYSize: 86
 OS2StrikeYPos: 342
 OS2CapHeight: 432
 OS2XHeight: 336
-OS2FamilyClass: 2048
+OS2FamilyClass: 1285
 OS2Vendor: 'FSTR'
-OS2CodePages: 600001ff.fc000000
-OS2UnicodeRanges: f50006ff.ffffffff.03ffffff.00000000
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "Copyright i-e-b 2018-2020+AAogHAAA-Computer says no+IB0A by +IBwA-CMunk+IB0A (https://fontstruct.com/fontstructors/show/25776/cmunk)" "" "Regular" "FontForge 2.0 : Dave Regular : 8-7-2020" "" "Version 1.0" "" "FontStruct is a trademark of FontStruct.com" "https://fontstruct.com" "i-e-b" "+IBwA-Dave+IB0A was built with FontStruct+AAoA-Designer description: <p>Adjustment to the excellent 'Computer Says No' for my own preferences.</p>+AAoACgAA<p>FontForge settings to get proper size:<br />+AAoA-GENERAL: Ascent 1000; Descent 500;</p>+AAoACgAA<p>OS/2: WinA 1080; WinD 289; CapHeight 860; XHeight 670;</p>+AAogHAAA-Computer says no+IB0A by +IBwA-CMunk+IB0A (https://fontstruct.com/fontstructors/show/25776/cmunk)" "https://fontstruct.com/fontstructions/show/1549797/dave-11" "https://fontstruct.com/fontstructors/show/1576620/i-e-b" "Creative Commons Attribution Share Alike" "http://creativecommons.org/licenses/by-sa/3.0/" "" "" "" "" "Five big quacking zephyrs jolt my wax bed"
@@ -68,11 +66,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 48 24 9
+WinInfo: 0 24 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 549888 274944 183296 577536 1048576 183296 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65539 2924
+BeginChars: 65539 2925
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -103455,6 +103453,13 @@ SplineSet
  161 81 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 2924
+Width: 537
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
