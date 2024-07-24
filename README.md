@@ -1,5 +1,8 @@
 # Dave
-A mono-space programming font
+
+A monospace programming font built for unambiguous legibility above all else
+
+![Sample](https://github.com/i-e-b/Dave/blob/master/Sample.png)
 
 Initially created in fontstruct https://fontstruct.com/fontstructions/show/1549797/dave-11
 Based on "Computer Says No" by Christian Munk ( `https://fontstruct.com/fontstructions/show/954016/computer_says_no_1` )
