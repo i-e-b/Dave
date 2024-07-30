@@ -16,4 +16,5 @@ Italic is created by skewing regular by -9 degrees.
 
 ## TODO
 
-- Should clean up warnings given by Font Bakery ( https://simoncozens.github.io/fontbakery-web/ ), especially for the fixed-width settings
+- [ ] Should clean up warnings given by Font Bakery ( https://simoncozens.github.io/fontbakery-web/ ), especially for the fixed-width settings
+- [ ] Rebuild 'italic' so that only letters & numbers are slanted (not arrows or box-drawing elements)
